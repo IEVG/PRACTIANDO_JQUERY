@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+#hide, #show {
+    background-color: brown;
+    color: white;
+    border: 0px;
+    font-size: medium;
+}
